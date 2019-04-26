@@ -1,0 +1,48 @@
+body{
+    background: rgba(122, 10, 214, 0.7);
+}
+
+
+#login{
+    margin: 100px auto;
+
+    width: 500px; border: 1px solid #d6d7da; 
+    padding: 15px 15px 15px 15px; 
+    border-radius: 5px;
+    font-family: arial; 
+    line-height: 16px;
+    color: #333333; 
+    font-size: 14px; 
+    background: rgba(122, 10, 214, 0.7) 0 4px 10px -1px;
+    }
+   
+    h3{
+        color: wheat ;
+        text-align: center;
+    }
+    form label{font-weight: bold;}
+    form label, form input{
+        display: block;
+        margin-bottom: 5px;
+        width: 90%
+    }
+    form input{ 
+    border: solid 1px #666666;
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+     margin-bottom: 20px
+    }
+    .btn {
+       
+    font-weight: bold;
+    padding: 12px 15px;
+    width: 150px;
+    color: #ffffff;
+    height: 50px;
+    }
+    .errorMsg{
+        color: #cc0000;
+        margin-bottom: 10px
+    }
+
+
